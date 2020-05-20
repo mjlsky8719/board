@@ -13,6 +13,12 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
+
+<!-- 게시물 목록 추가 -->
+<p>
+<a href="/board/list">게시물 목록</a><br>
+<a href="/board/write">게시물 작성</a>
+</p>
 </body>
 </html>
 
