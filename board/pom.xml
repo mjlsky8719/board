@@ -122,7 +122,7 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>4.12</version> <!-- 버전 변경 -->
+			<version>4.13.1</version> <!-- 버전 변경 -->
 			<scope>test</scope>
 		</dependency> 
 		
